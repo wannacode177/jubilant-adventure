@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(int argc,char *argv[])
+{
+printf("what the hell is the nano thing?");
+return 0;
+}
